@@ -41,7 +41,7 @@ Bei Änderungen an den rechtlichen Texten in der Flutter-App müssen diese Dokum
 ## 📬 Kontakt
 Bei rechtlichen Fragen oder Korrekturhinweisen:
 **Dr. Christoph Gramespacher**
-E-Mail: [christoph@gramespacher.biz](mailto:christoph@gramespacher.biz)
+E-Mail: [skippr.app@gmail.de](mailto:skippr.app@gmail.de)
 
 ---
 *Diese Seite dient der Erfüllung gesetzlicher Informationspflichten gemäß TMG, DSGVO und VSBG.*
