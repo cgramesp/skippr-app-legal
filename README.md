@@ -7,9 +7,9 @@ Dieses Repository hostet die rechtlich erforderlichen Dokumente für die mobile 
 Die Dokumente sind unter folgenden URLs öffentlich erreichbar:
 
 * **Rechtliche Übersicht (index):** [https://cgramesp.github.io/skippr-app-legal/legal.html](https://cgramesp.github.io/skippr-app-legal/legal.html)
-* **Datenschutzerklärung:** [index.legal#datenschutz](https://cgramesp.github.io/skippr-app-legal/legal.html#datenschutz)
-* **AGB & Widerruf:** [index.html#agb](https://cgramesp.github.io/skippr-app-legal/index.html#agb)
-* **Impressum:** [index.html#impressum](https://cgramesp.github.io/skippr-app-legal/index.html#impressum)
+* **Datenschutzerklärung:** [legal.html#datenschutz](https://cgramesp.github.io/skippr-app-legal/legal.html#datenschutz)
+* **AGB & Widerruf:** [legal.html#agb](https://cgramesp.github.io/skippr-app-legal/legal.html#agb)
+* **Impressum:** [legal.html#impressum](https://cgramesp.github.io/skippr-app-legal/legal.html#impressum)
 * **Muster-Widerrufsformular:** [widerruf.html](https://cgramesp.github.io/skippr-app-legal/widerruf.html)
 
 ---
